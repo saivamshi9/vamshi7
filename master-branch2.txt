@@ -1,1 +1,4 @@
+
 thi is 2 master changeedit in master bramch while edit is in funct c
+thi is 2 master change edited in funct c
+
